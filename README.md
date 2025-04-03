@@ -1,4 +1,4 @@
-# 🌱 Plant Store - React Practice Project
+# 🌱 Plant eShopping
 
 A React practice project simulating an online plant store with a shopping cart. It features dynamic UI rendering, state management with React Hooks and Redux, and GitHub Pages deployment.
 
@@ -10,7 +10,7 @@ A React practice project simulating an online plant store with a shopping cart. 
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/StivenHenao/e-plantShopping.git
 cd your-repo
 npm install
 npm start
