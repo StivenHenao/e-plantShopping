@@ -2,6 +2,7 @@
 body, h1, ul {
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 
 /* Set a background color */
@@ -46,6 +47,7 @@ body {
     width: 100vw;
     align-items: center;
     justify-content: center;
+    margin-top: 30px;
 }
 .product-list {
     display: flex;
@@ -64,6 +66,7 @@ body {
     flex: 0 0 calc(33.33% - 20px); /* Adjust width for 3 cards per row with 20px gap */
     max-width: calc(26.33% - 20px); /* Adjust max-width for 3 cards per row with 20px gap */
     margin-bottom: 20px;
+    margin-top: 20px;
     padding: 20px;
     background-color: #fff;
     border: 1px solid #ccc;
